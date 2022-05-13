@@ -11,11 +11,12 @@ let soyRico = false;
 decision = (soyRico)? 'Me voy al Caribe': 'Tendré que trabajar';
 
 console.log("Decision: ", decision);
+//el valor ternario cumple la misma estructura del if..else.
 
 // Pregunta 2. Cambia el valor de las siguientes variables para obtener el mensaje por el terminal que diga "El gato tiene hambre"
 
 let tengoHambre;
-let mensaje = "";
+let mensaje = 'Échame de comer, humano!';
 
 mensaje = tengoHambre? 'Échame de comer, humano!': 'Miau!';
 

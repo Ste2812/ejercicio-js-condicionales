@@ -16,3 +16,4 @@ if (4 > 3 && -1 > 0) {
     console.log("Esta condición también se cumple?");
 
 }
+//el operador logico && (AND) evalua si ambas condiciones cumplen.

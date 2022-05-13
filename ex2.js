@@ -11,3 +11,4 @@ if (numero < 2) {
 else {
     console.log("Cuack!")
 }
+//Se mostrará la segunda condición en eel else en cuanto 3 no es menor que 2.

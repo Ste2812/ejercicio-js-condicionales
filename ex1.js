@@ -10,3 +10,4 @@ else {
     console.log("Guau!")
 }
 
+//Se mostrará la primera condición en cuanto se cumple la condición boolean, true.

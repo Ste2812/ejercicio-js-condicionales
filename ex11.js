@@ -15,11 +15,13 @@ else {
     console.log("Me parece que te has olvidado de poner tu nombre...")
 }
 
+//ejecuta la condición else en cuanto es false y no se ejecuta la condición if.
+
 // Pregunta 2: Modifica el valor de las variables adecuadamente para que se muestre el siguiente console.log
 
-let destino = ""; // donde me voy a de viaje?
-let presupuesto; // cuanto dinero tengo para ello?
-let estoyPrearado = false; // lo tengo todo ya listo ?
+let destino = "California"; // donde me voy a de viaje?
+let presupuesto=105.5 ; // cuanto dinero tengo para ello?
+let estoyPrearado = true; // lo tengo todo ya listo ?
 
 /**NO MODIFIQUES A PARTIR DE AQUI */
 
